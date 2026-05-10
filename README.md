@@ -50,12 +50,11 @@
 
 <p align="center">
   <a href="https://github.com/ilsqr">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
-</p>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/ilsqrthepenguin">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="50"/>
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
   </a>
 </p>
 
