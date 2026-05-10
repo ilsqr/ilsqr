@@ -30,16 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ilsqr&show_icons=true&theme=gruvbox&hide_border=true&bg_color=282828&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilsqr&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828&title_color=FABD2F&text_color=EBDBB2" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -61,6 +51,11 @@
 <p align="center">
   <a href="https://github.com/ilsqr">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50"/>
+  </a>
+</p>
+
+  <a href="https://discord.com/users/ilsqrthepenguin">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="50"/>
   </a>
 </p>
 
